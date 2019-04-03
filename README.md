@@ -16,10 +16,12 @@ The module allows users to read and write JMS messages from a Oracle WebLogic Se
 
 
 ## Dependencies
-### Cortex Version
 This version of the CTX-Oracle-WebLogic module was developed with:
+### Cortex Version
 * Cortex version 6.5
 	* Some Cortex functionality may not be available on different verions of Cortex
+	
+### WebLogic Server Version
 * WebLogic Server 12.2.1.3.0
 	* Functionality may not work in earlier versions.
 
