@@ -33,6 +33,7 @@ The  module requires the following Cortex OCIs:
 ### Files
 The CTX-Oracle-WebLogic module requires the following files:
 * [CTX-Oracle-WebLogic.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Oracle-WebLogic/releases/download/v1.0/CTX-Oracle-WebLogic.studiopkg)
+* [Oracle WebLogic Messaging DLL](https://github.com/CortexIntelligentAutomation/CTX-Oracle-WebLogic/releases/download/v1.0/WebLogic.Messaging.dll)
 
 ### Other
 The CTX-Oracle-WebLogic module has the following additional requirements which are explained in detail in the [Installation section](#Installation):<Other Requirements>
