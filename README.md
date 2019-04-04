@@ -21,10 +21,13 @@ This version of the CTX-Oracle-WebLogic module was developed with:
 * Cortex version 6.5
 	* Some Cortex functionality may not be available on different verions of Cortex
 	
-### WebLogic Server Version
+### WebLogic Server Versions
 * WebLogic Server 12.2.1.3.0
+* WebLogic Server 10.3.6.0
 	* Functionality may not work in earlier versions.
 
+### WebLogic Messaging DLL
+* WebLogic.Messaging.dll 1.3.4.0
 
 ### OCIs
 The  module requires the following Cortex OCIs:
