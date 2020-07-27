@@ -8,6 +8,7 @@ The module allows users to read and write JMS messages from a Oracle WebLogic Se
     * [OCIs](#ocis)
     * [Files](#files)
     * [Other](#other)
+1) [Support and Warranty](#support-and-warranty)
 2) [Installation](#installation)
 3) [How to use](#how-to-use)
 4) [How you can contribute](#how-you-can-contribute)
@@ -40,6 +41,9 @@ The CTX-Oracle-WebLogic module requires the following files:
 
 ### Other
 The CTX-Oracle-WebLogic module has the following additional requirements which are explained in detail in the [Installation section](#Installation):<Other Requirements>
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of the installation can be found in the [CTX-Oracle-WebLogic Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Oracle-WebLogic/blob/master/CTX-Oracle-WebLogic%20-%20Deployment%20Plan.pdf).
